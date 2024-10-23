@@ -1,0 +1,7 @@
+{
+  "name": "Подними свою жопу и делай",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
